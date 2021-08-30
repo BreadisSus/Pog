@@ -1,0 +1,28 @@
+body {
+  background-color: aquamarine;
+  
+}
+div {
+    background-color: black; width: 69px; height: 69px; margin-left: 420px; 
+}
+h1{
+    text-align: right; color: black;
+}
+h2{
+    text-align: center; color: chocolate;
+}
+h3{
+    text-align: left; color: darkcyan;
+}
+div{
+    width: 420px; height: 69px; background-color: aqua; text-align: center; padding-top: 34.5px; 
+}
+#epic{
+    color: crimson;
+}
+#nice{
+    color: deeppink;
+}
+#ok{
+    color: mediumpurple;
+}

@@ -1,0 +1,16 @@
+$pink-B: #D00070 ;
+$blue-B: #0032A2;
+$purple-B: #8C4799;
+
+body {
+    background-image: linear-gradient(#8C4799, #0032A0 );
+    color: $pink-B;
+}
+ul{
+    color:$pink-B;
+    font-size: 69px;
+}
+ol{
+    color: $purple-B;
+    font-size: 34.5px;
+}
